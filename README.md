@@ -1,4 +1,4 @@
-REDUX FORM CRUD EXAMPLE
+REACT FORM CRUD EXAMPLE
 This a basic crud react-form-  application for managing form.  
  
 How to install 
